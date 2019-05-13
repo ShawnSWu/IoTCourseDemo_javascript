@@ -3,4 +3,4 @@
 ### 此部分只用簡單ajax操作 同學可用自己習慣寫法
 
 # Node.js support
-## 感謝[蔡易霖(碩一學長)](https://https://github.com/andy6804tw)支援, 有問題可直接詢問學長
+## 感謝[蔡易霖(碩一學長)](https://github.com/andy6804tw)支援, 有問題可直接詢問學長
